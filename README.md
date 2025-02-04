@@ -8,3 +8,5 @@ Para esta automação eu estou utilizando a linguagem python e com as seguinte b
 - pyautogui # Automação em si
 
 OBS: as imagens no arquivo era pra fazer uma localização com o (locateCenterOnScreen), mas não deu certo
+
+OBS: Selenium (Biblioteca de automação) -> Verificar mais tarde
